@@ -1,0 +1,13 @@
+modulo,tipo,latencia_observada,latencia_prevista,tensao,corrente,potencia_transmissao,status,prioridade,codigo_sensor,alerta,ciclo
+Comunicação Central,comunicacao,22.5,21.0,24,1.8,43.2,ativo,5,101,Operação normal,1
+Habitação Alfa,habitacao,25.1,23.5,24,1.5,36.0,ativo,5,102,Pequena variação de latência,2
+Agricultura Verde,agricultura,31.8,27.5,18,1.6,28.8,alerta,3,103,Latência acima do previsto,3
+Laboratório Ares,laboratorio,27.0,25.4,24,1.7,40.8,ativo,3,104,Operação normal,4
+Suporte Médico,suporte_medico,20.7,20.0,24,2.0,48.0,ativo,5,105,Operação estável,5
+Armazenamento de Dados,armazenamento,35.9,30.0,12,1.2,14.4,alerta,4,106,Latência elevada,6
+Comunicação Secundária,comunicacao,24.4,22.8,24,1.9,45.6,ativo,4,107,Variação moderada,7
+Produção de Oxigênio,suporte_vida,19.8,19.2,24,2.2,52.8,ativo,5,108,Operação normal,8
+Centro de Controle,controle,21.6,20.5,24,2.0,48.0,ativo,5,109,Operação normal,9
+Estação Meteorológica,sensor,29.5,25.7,12,0.9,10.8,alerta,3,110,Instabilidade do enlace,10
+Energia Solar,energia,23.2,22.0,18,1.4,25.2,ativo,4,111,Operação normal,11
+Robótica Externa,robotica,38.0,31.5,24,1.6,38.4,alerta,4,112,Comunicação degradada,12
